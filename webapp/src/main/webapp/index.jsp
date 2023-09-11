@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Pu$$y Register</h1>
+    <h1>New user Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -28,10 +28,10 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>PUFFY, Already have an account? <a href="#">Sign in</a>.</p>
+    <p>I am bound to be rich <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you bitches, Happy Learning </h1>
+   <h1>I know my God so I am strong and do exploits.  </h1>
 
   
 </form>
