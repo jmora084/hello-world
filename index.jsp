@@ -31,7 +31,7 @@
     <p>I am bound to be rich <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>I know my God so I am strong and do exploits.  </h1>
+   <h1>I know my God THEREFORE I am strong and do exploits.  </h1>
 
   
 </form>
